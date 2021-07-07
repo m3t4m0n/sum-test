@@ -3,7 +3,7 @@
 #include "sum.h"
 
 int main() {
-	ins s = sum(10);
+	int s = sum(10);
 	print("result=%d\n", s);
 }
 
